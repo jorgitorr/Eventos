@@ -1,0 +1,6 @@
+C:\Users\jorge\Documents\2º DAM\PSP\Eventos\Eventos\bin\Debug\Eventos.exe
+C:\Users\jorge\Documents\2º DAM\PSP\Eventos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\jorge\Documents\2º DAM\PSP\Eventos\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\2º DAM\PSP\Eventos\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\2º DAM\PSP\Eventos\Eventos\obj\Debug\Eventos.exe
+C:\Users\jorge\Documents\2º DAM\PSP\Eventos\Eventos\obj\Debug\Eventos.pdb
